@@ -1,0 +1,108 @@
+{
+
+"Year 1": {
+    "Introduction to Programming": [
+        "K5", "K6", "K21", "K22", "K24", "K25", "K26",
+        "S1", "S3", "S4", "S18", "S19",
+        "B1"
+    ],
+
+    "Digital Technology in Organisations and Society": [
+        "K17", "K18", "K19", "K20",
+        "S14", "S15",
+        "B1", "B3", "B4", "B6", "B7", "B8"
+    ],
+
+    "Introduction to Business Systems": [
+        "K1", "K2", "K3", "K4", "K5", "K7", "K8",
+        "K10", "K12", "K14", "K15", "K17", "K18",
+        "S1", "S2", "S3", "S7", "S8", "S11", "S13", "S14",
+        "B1", "B2", "B4", "B6", "B7"
+    ],
+
+    "Database Fundamentals": [
+        "K5", "K6", "K12", "K13", "K14",
+        "S1", "S3", "S4", "S10",
+        "B1"
+    ]
+},
+
+"Year 2": {
+    "Information Technology Project Management": [
+        "K2", "K3", "K5", "K8", "K9", "K10", "K15", "K23", "K28",
+        "S1", "S2", "S3", "S5", "S6", "S7", "S8",
+        "S13", "S14", "S20",
+        "B1", "B2", "B4", "B5", "B6", "B7"
+    ],
+
+    "Computer Network Security": [
+        "K3", "K5", "K6", "K11", "K16",
+        "S2", "S9", "S12",
+        "B1", "B3"
+    ],
+
+    "Advanced Programming": [
+        "K5", "K6", "K11", "K12", "K13", "K16",
+        "K21", "K22", "K24", "K25", "K26", "K27",
+        "S1", "S4", "S5", "S9", "S10"
+    ],
+
+    "Introduction to Web Development": [
+        "K6", "K19", "K21", "K22", "K24", "K25", "K26",
+        "S1", "S2", "S3", "S4", "S5", "S9", "S10", "S18", "S19",
+        "B1"
+    ]
+},
+"Year 3": {
+    "Software Design and Architecture": [
+        "K1", "K2", "K3", "K5", "K6", "K12", "K16", "K17", "K18",
+        "K21", "K22", "K24", "K25", "K26", "K27",
+        "S1", "S4", "S5", "S9", "S10",
+        "S16", "S17", "S18", "S19", "S21"
+    ],
+
+    "Full Stack Web Development": [
+        "K6", "K7", "K11", "K21", "K22", "K24", "K25", "K26",
+        "S1", "S2", "S3", "S4", "S5", "S9",
+        "S18", "S19", "S20", "S21"
+    ],
+
+    "Enterprise Programming": [
+        "K5", "K6", "K11", "K12", "K16", "K19",
+        "K21", "K22", "K24", "K25", "K26", "K27",
+        "S1", "S2", "S3", "S4", "S5", "S9", "S14",
+        "S16", "S17", "S18", "S19", "S21", "S23"
+    ],
+
+    "Operating Systems": [
+        "K21", "K22", "K24", "K26",
+        "S1", "S3", "S4", "S18", "S19"
+    ]
+},
+
+"Year 4": {
+    "Software Testing and Quality Assurance": [
+        "K6", "K7", "K11", "K14",
+        "K21", "K22", "K24", "K25", "K26", "K27", "K28",
+        "S1", "S2", "S3", "S4", "S9", "S11", "S13",
+        "S18", "S19", "S22"
+    ],
+
+    "Reflective Practice for Digital Technology Professional": [
+        "K6", "K7", "K8", "K9", "K10", "K11", "K12", "K13",
+        "K14", "K16", "K19", "K20",
+        "K21", "K22", "K23", "K24", "K28",
+        "S4", "S7", "S8", "S9", "S10", "S11", "S12", "S15",
+        "S20", "S21", "S23",
+        "B1", "B2", "B4", "B6", "B7", "B8"
+    ],
+
+    "Synoptic Project": [
+        "K1", "K2", "K3", "K4", "K5", "K15", "K17", "K18",
+        "K25", "K26", "K27",
+        "S1", "S2", "S3", "S5", "S6", "S13", "S14",
+        "S16", "S17", "S18", "S19", "S22",
+        "B3", "B5"
+    ]
+}
+}
